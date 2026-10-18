@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm AbdulWahab 👋
 
-<!--
-**AbdulWahahb/AbdulWahahb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js | Next.js | TypeScript
 
-Here are some ideas to get you started:
+I'm a professional web developer from Herat, Afghanistan, with commercial development experience since 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building modern, responsive, and scalable web applications.
+
+### 🛠️ Tech Stack
+
+- **Frontend:** JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Linux
+
+### 💼 Professional Experience
+
+I have worked with three software companies, contributing to business applications, accounting systems, administrative dashboards, and reusable UI components.
+
+### 🚀 Currently
+
+- Improving my React and TypeScript architecture skills
+- Building full-stack web applications
+- Exploring international remote software development opportunities
+
+### 🌍 Open to Remote Work
+
+I'm interested in remote Frontend Developer and Full-Stack JavaScript Developer positions with international teams.
+
+### 📫 Connect With Me
+
+GitHub: https://github.com/AbdulWahahb
